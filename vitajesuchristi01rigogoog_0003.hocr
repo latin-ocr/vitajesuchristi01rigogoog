@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitajesuchristi01rigogoog_0003.png"; bbox 0 0 2632 4320; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 2008 747 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 347 2008 747 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 347 2008 747 2104; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 347 2008 747 2104; x_wconf 86' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 345 2175 748 2439">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 345 2175 748 2439">
+     <span class='ocr_line' id='line_1_2' title="bbox 345 2175 747 2274; baseline -0.012 0"><span class='ocrx_word' id='word_1_2' title='bbox 345 2175 747 2274; x_wconf 76' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 347 2344 748 2439; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 347 2344 748 2439; x_wconf 84' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1320 4320">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1320 4320">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1320 4320; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1320 4320; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
